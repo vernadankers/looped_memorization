@@ -1,0 +1,8 @@
+corpus: monology/pile-uncopyrighted
+corpus_split: train
+tokenizer_name: ByteDance/Ouro-1.4B
+prefix_tokens: 100
+continuation_tokens: 100
+num_samples: 10000
+seed: 0
+high_overlap_threshold: 0.8
